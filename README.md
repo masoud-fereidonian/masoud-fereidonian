@@ -4,7 +4,7 @@
 <br>
 
 
-- 🔭 I’m currently working on Cloud solutuons e.g: Azure , AWS , GCP , automation and python , Go
+- 🔭 I’m currently working on Cloud solutions e.g: Azure , AWS , GCP , automation and python , Go
 - 🌱 I’m currently learning Different programming languages 
 - 📫 How to reach me: masoud.fereidonian@gmail.com
 
